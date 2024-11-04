@@ -1,0 +1,7 @@
+node_modules
+.nvmrc
+init.sql
+docker-compose.yml
+docker-compose1.yml
+Dockerfile
+README.md
